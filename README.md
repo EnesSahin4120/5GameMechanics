@@ -8,3 +8,5 @@ Stack Ball, Stack, Sand Balls, Push Em All, Jelly Shift
 ![Sand Balls](https://user-images.githubusercontent.com/65425355/183657577-98d6aaa6-8ace-4125-919c-ceffed9cfc3c.gif)
 
 ![Push](https://user-images.githubusercontent.com/65425355/183657904-f9739f10-9437-4035-bcc3-84f3ebbb3455.gif)
+
+![Jelly Shift](https://user-images.githubusercontent.com/65425355/183658296-97143161-dab6-4b56-9735-2b620719dd44.gif)
